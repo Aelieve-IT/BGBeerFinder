@@ -93,14 +93,14 @@ span.finder_dba_text
 	max-width:100%!important
 }
 
-.nav-tabs>li>a
+.nav-tabs>li>a,.col-sm-2 control-label finder_form_left
 {
 	color:#1b2249;
 	font-family:Brandon Medium;
 	font-size:15px!important;
 }
 
-.nav-tabs
+.nav-tabs,.col-sm-2 control-label finder_form_left
 {
 	text-transform: uppercase!important;
 }
