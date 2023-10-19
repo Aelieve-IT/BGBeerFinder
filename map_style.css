@@ -16,7 +16,7 @@
 
 input#submitBtn
 {
-	background:#1b2449;
+	background:#8f8f04;
 	color:#fff;
 	padding:13px!important;
 	border:none!important
@@ -93,17 +93,23 @@ span.finder_dba_text
 	max-width:100%!important
 }
 
-.nav-tabs>li>a,.col-sm-2 control-label finder_form_left
+.nav-tabs>li>a
 {
 	color:#1b2249;
 	font-family:Brandon Medium;
 	font-size:15px!important;
-}
-
-.nav-tabs,.col-sm-2 control-label finder_form_left
-{
 	text-transform: uppercase!important;
 }
+
+.col-sm-2 control-label finder_form_left
+{
+	color:#1b2249;
+	font-family:Brandon Medium;
+	font-size:15px!important;
+	text-transform: uppercase!important;
+}
+
+
 
 .finder_dba_text
 {
