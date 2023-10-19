@@ -16,7 +16,6 @@
 
 input#submitBtn
 {
-	background:#94bb36;
 	color:#fff;
 	padding:13px!important;
 	border:none!important
@@ -98,7 +97,11 @@ span.finder_dba_text
 	color:#1b2249;
 	font-family:Brandon Medium;
 	font-size:15px!important;
-	text-transform: uppercase
+}
+
+.nav-tabs
+{
+	text-transform: uppercase!important;
 }
 
 .finder_dba_text
