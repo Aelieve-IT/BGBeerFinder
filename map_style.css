@@ -16,7 +16,7 @@
 
 input#submitBtn
 {
-	background:#8f8f04;
+	background:#048f8a;
 	color:#fff;
 	padding:13px!important;
 	border:none!important
@@ -101,7 +101,7 @@ span.finder_dba_text
 	text-transform: uppercase!important;
 }
 
-.col-sm-2 control-label finder_form_left
+.finder_form_left
 {
 	color:#1b2249;
 	font-family:Brandon Medium;
