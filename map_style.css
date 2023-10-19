@@ -1,3 +1,10 @@
+@font-face {
+    font-family : 'Brandon Medium';
+    src : url('https://biggrove.com/cdn/shop/t/15/assets/Brandon_med.woff2') format("woff2"),
+    url("Brandon_med.woff2") format("woff");
+}
+
+
 .btn-primary
 {
 	color:#fff;
@@ -76,7 +83,7 @@ a
 
 span.finder_dba_text
 {
-	font-family:Brandon Bold!important
+	font-family:Brandon Medium!important
 }
 
  
@@ -89,12 +96,12 @@ span.finder_dba_text
 .nav-tabs>li>a
 {
 	color:#1b2249;
-	font-family:Brandon Bold;
+	font-family:Brandon Medium
 }
 
 .finder_dba_text
 {
-	font-family:Brandon Bold
+	font-family:Brandon Medium
 }
  
 
