@@ -101,7 +101,7 @@ span.finder_dba_text
 	text-transform: uppercase!important;
 }
 
-.finder_form_left
+.form-horizontal
 {
 	color:#1b2249;
 	font-family:Brandon Medium;
